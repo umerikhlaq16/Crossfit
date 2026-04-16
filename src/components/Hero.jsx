@@ -51,7 +51,7 @@ const Hero = () => {
           <div className="lg:col-span-7 flex flex-col gap-6 md:gap-10 text-left">
             <motion.h1 
               variants={itemVariants}
-              className="text-5xl sm:text-6xl md:text-8xl lg:text-[100px] xl:text-[120px] font-[1000] text-white leading-[0.95] tracking-tighter uppercase italic"
+              className="text-5xl sm:text-6xl md:text-8xl lg:text-[100px] xl:text-[120px] font-[1000] text-white leading-[0.95] tracking-tighter uppercase "
             >
               Be healthier.<br/>
               <span className="text-transparent bg-clip-text bg-gradient-to-r from-[#f9b917] to-yellow-400">
